@@ -1,0 +1,25 @@
+header{
+   display:flex;
+    justify-content: space-around;
+   background-color: rgb(37, 11, 131);
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+
+header h1{
+    color: white;
+}
+main h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+main p{
+    text-align: center;
+}
+.header img{
+    align-items: left;
+    margin-right: 20px;
+}
